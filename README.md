@@ -2,7 +2,7 @@
 
 > Developer Activity Dashboard — enter any GitHub username, get a complete activity visualization.
 
-Live URL pattern: `devpulse.vercel.app/akhishinde2004`
+Live URL pattern: `https://dev-pulse-git-master-akki4.vercel.app/`
 
 ---
 
